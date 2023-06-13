@@ -12,9 +12,9 @@ namespace StudentManagementSystem
         {
             List<Student> students = new List<Student>();
             Student CFSI = new Student();
-            CFSI.AddStudent(students, 1, "Richard", "J.", "Bengco", 18, 'M');
-            CFSI.AddStudent(students, 2, "Nickiel Paulo", "D.", "Angeles", 18, 'M');
-            CFSI.AddStudent(students, 3, "Richard", "J.", "Bengco", 18, 'M');
+            CFSI.AddStudent(students, 1, "John", "A.", "Doe", 18, 'M');
+            CFSI.AddStudent(students, 2, "Jane", "A.", "Doe", 16, 'M');
+            CFSI.AddStudent(students, 3, "Jeff", "K.", "Benedicts", 17, 'M');
 
             while (true)
             {
