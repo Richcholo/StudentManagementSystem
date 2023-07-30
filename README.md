@@ -1,3 +1,5 @@
 # StudentManagementSystem
-What to do:
-- Create a txt file to save data locally
+To-Dos:
+- Convert this to WPF
+- Make the code cleaner and more stable
+- Implement some data storage with SQL
