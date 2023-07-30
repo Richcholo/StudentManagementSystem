@@ -107,6 +107,7 @@ namespace StudentManagementSystem
                                     Console.WriteLine($"Age: {foundStudent.Age}");
                                     Console.WriteLine($"Gender: {foundStudent.Gender}");
                                     Console.WriteLine();
+                                    Console.ReadKey();
                                 }
                                 else
                                 {
